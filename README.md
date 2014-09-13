@@ -12,9 +12,7 @@ Btw, checkout: https://github.com/greenido/hackdaymanifesto.github.com/blob/mast
 1. What is the event
 2. Where (add some nice map to the event spot + parking)
 3. Contact 
-4. Reigstration - use google docs. 
+4. Reigstration - Use google sheet with [Apps script](https://github.com/greenido/events-site-template/blob/master/G-doc-scripts/util.js)
 
-In that aspect there is another 'backend' that let you send confirmations, reminders, waiting-list mangement and after the event feedback.
+This 'backend' code will let you send emails to the people that registered (confirmations, reminders, waiting-list etc;) and also gain valuable feedback after the event.
 
-# Feedback
-Please feel free to *pull* request :)
