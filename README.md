@@ -22,5 +22,5 @@ This 'backend' code will let you send emails to the people that registered (conf
   * Let the user fill the form and send it when you have connection.
   * Let users 'save' their plan for the event (?)
 * ServiceWorkers - to enable notification when sessions start.
-* 
+
 
