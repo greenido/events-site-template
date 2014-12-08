@@ -2,7 +2,7 @@
 =========================
 
 A simple site that will let orgnizers of small events/confereance/hackathon and option to have their ionformation, registration in one place.
-Btw, checkout: https://github.com/greenido/hackdaymanifesto.github.com/blob/master/index.markdown in order to improve your next hackathon.
+Btw, checkout [hackdaymanifesto](https://github.com/greenido/hackdaymanifesto.github.com/blob/master/index.markdown) in order to improve your next hackathon.
 
 ## Demo
  http://bit.ly/html5-lon
