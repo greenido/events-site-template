@@ -17,7 +17,8 @@ Btw, checkout [hackdaymanifesto](https://github.com/greenido/hackdaymanifesto.gi
 This 'backend' code will let you send emails to the people that registered (confirmations, reminders, waiting-list etc;) and also gain valuable feedback after the event.
 
 ## ToDo
-* Make the site more 'mobile' with foundation css.
+* Make the site more 'mobile' with foundation css / bootstrap.
+* Let users save their 'own' plan for the day.
 * Enable the site to run in 'offline' mode:
   * Let the user fill the form and send it when you have connection.
   * Let users 'save' their plan for the event
