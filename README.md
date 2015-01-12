@@ -17,8 +17,11 @@ Btw, checkout [hackdaymanifesto](https://github.com/greenido/hackdaymanifesto.gi
 This 'backend' code will let you send emails to the people that registered (confirmations, reminders, waiting-list etc;) and also gain valuable feedback after the event.
 
 ## ToDo
-ServiceWorkers - to enable notification when sessions start.
-  * A good example is [devsummit](https://github.com/GoogleChrome/devsummit) site that was built for Chrome Summit 2014
+  * ServiceWorkers - to enable notification when sessions start.
+  * A good example is [devsummit](https://github.com/GoogleChrome/devsummit) site that was built for Chrome Summit
+  * Add mobile view (foundation).
+  
+#### Older Todos (2014/3)
   * This will enable users to 'fill' the capabilities of an app.
   * Notifications - for talks you registered.
 * Make the site UI 'mobile' with foundation / bootstrap.
