@@ -5,13 +5,12 @@ A simple site that will let orgnizers of small events/confereance/hackathon and 
 Btw, checkout [hackdaymanifesto](https://github.com/greenido/hackdaymanifesto.github.com/blob/master/index.markdown) in order to improve your next hackathon.
 
 ## Demo
- http://bit.ly/html5-lon
- I've used this site for that event.
+ http://bit.ly/html5-lon 
  
 ## The major sections:
-1. What is the event
-2. Where (add some nice map to the event spot + parking)
-3. Contact 
+1. What is the event?
+2. Where (add some nice map to the event spot + parking)?
+3. Contact - put here a good channel to communicate (=not your email. It could be slack, twitter, G+)
 4. Reigstration - Use google sheet with [Apps script](https://github.com/greenido/events-site-template/blob/master/G-doc-scripts/util.js)
 
 This 'backend' code will let you send emails to the people that registered (confirmations, reminders, waiting-list etc;) and also gain valuable feedback after the event.
