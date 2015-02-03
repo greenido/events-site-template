@@ -7,9 +7,6 @@
   Twitter: @greenido
   Location: Colorado 
 
-/* THANKS */
-  Names (& URL):
-
 /* SITE */
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
