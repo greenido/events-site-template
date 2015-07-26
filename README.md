@@ -30,5 +30,7 @@ This 'backend' code will let you send emails to the people that registered (conf
   * Let users 'save' their plan for the event
 
   
+[![Analytics](https://ga-beacon.appspot.com/UA-65622529-1/events-site-template/main)](https://github.com/igrigorik/ga-beacon)
+
 
 
