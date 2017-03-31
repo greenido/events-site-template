@@ -4,8 +4,6 @@
 A simple site that will let orgnizers of small events/confereance/hackathon and option to have their ionformation, registration in one place.
 Btw, checkout [hackdaymanifesto](https://github.com/greenido/hackdaymanifesto.github.com/blob/master/index.markdown) in order to improve your next hackathon.
 
-## Demo
- http://bit.ly/html5-lon 
  
 ## The major sections:
 1. What is the event?
